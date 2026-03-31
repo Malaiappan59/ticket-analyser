@@ -1,6 +1,6 @@
 # 🎫 IT Ticket Volume Dump Analyser
 
-> Automatically classify 700+ ITSM tickets from **ServiceNow / Jira / Datadog / Splunk / SolarWinds** into structured categories using a local **Ollama LLM** or keyword rules — then export a colour-coded Excel report.
+> Automatically classify 10k+ ITSM tickets from **ServiceNow / Jira  that comes from monitoring and observability tools like Datadog / Splunk / SolarWinds** into structured categories using a local **Ollama LLM** or keyword rules — then export a colour-coded Excel report.
 
 ---
 
@@ -388,7 +388,3 @@ maxUploadSize = 500   # MB
 ```
 
 ---
-
-## 📄 Licence
-
-MIT — free to use, modify, and distribute.
