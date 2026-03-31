@@ -1,0 +1,24 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# requirements.txt  –  IT Ticket Volume Dump Analyser
+# Install:  pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Web framework
+streamlit>=1.35.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Excel read/write
+openpyxl>=3.1.0
+xlrd>=2.0.1          # .xls (legacy Excel) support
+
+# Charts
+plotly>=5.18.0
+
+# HTTP requests (Ollama API)
+requests>=2.31.0
+
+# Testing (dev only)
+pytest>=7.4.0
